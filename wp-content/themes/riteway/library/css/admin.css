@@ -1,0 +1,21 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Admin Stylesheet
+
+If you like living on the edge, you can add some styles here to
+customize the dashboard and WordPress admin area. This stylesheet
+is empty, but you can just start dropping your styles here to
+start customizing. All admin functions are located in lib/admin/
+
+******************************************************************/
+/* line 16, ../scss/admin.scss */
+.field_key-field_53b7573188461 ul li {
+  display: block;
+  float: left;
+}
+/* line 20, ../scss/admin.scss */
+.field_key-field_53b7573188461 ul li:nth-child(1):before {
+  content: url'library/images/layout-1.png';
+}
